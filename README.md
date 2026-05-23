@@ -107,10 +107,9 @@ Future Improvements:
 - GUI Based Version
 - File Handling Integration
 - Template Based Data Structures
+  
 
 Author:
 Meenakshi Mali
 BCA 1st Year Student
 
-Purpose:
-This repository is created for educational and learning purposes to understand the implementation of Stack, Queue, and Circular Queue using C++ programming language.
